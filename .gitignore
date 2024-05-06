@@ -1,0 +1,5 @@
+__pycache__/
+poetry
+pyproject.toml
+poetry.lock
+.gz
